@@ -4,6 +4,9 @@
 **Code-By-Akhil-Thekkuveettil/Code-By-Akhil-Thekkuveettil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-By-Akhil-Thekkuveettil&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-By-Akhil-Thekkuveettil&layout=compact&theme=github_dark&hide_border=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
